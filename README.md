@@ -1,7 +1,7 @@
 # **Welcome** 
 ![octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 ## 👋 Hello people 
-I'm Arsalaan Raza a __developer__ 
+I'm Arsalaan Raza a __developer__  
 I am mostly involved in
 - Full stack web development
 - Ethereum contract writing/Auditing
