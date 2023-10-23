@@ -14,8 +14,8 @@ My skillset is
 > 3. HTML, CSS, _vanilla_ JS 
 > 7. Python 
 
- ✨ Let's Connect ✨
-[https://www.linkedin.com/in/arsalaan-raza-31891b250]
+ ✨Let's Connect✨ 
+[Linkedin](https://www.linkedin.com/in/arsalaan-raza-31891b250)
 
 📫 To contact me, shoot a mail at ***arsalaann0326@gmail.com*** 
 
