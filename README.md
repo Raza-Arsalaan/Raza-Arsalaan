@@ -3,16 +3,16 @@
 ## 👋 Hello people 
 I'm Arsalaan Raza a __developer__ 
 I am mostly involved in
-. Full stack web development
-. Ethereum contract writing/Auditing
-. c/c++ development
-. Open source contributions
+- Full stack web development
+- Ethereum contract writing/Auditing
+- c/c++ development
+- Open source contributions
 
 My skillset is 
-> 1 Java 
-> 2 C/C++ 
-> 3 HTML, CSS, _vanilla_ JS 
-> 7 Python 
+> 1. Java 
+> 2. C/C++ 
+> 3. HTML, CSS, _vanilla_ JS 
+> 7. Python 
 
  ✨ Let's Connect ✨
 [https://www.linkedin.com/in/arsalaan-raza-31891b250]
