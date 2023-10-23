@@ -19,7 +19,7 @@ My skillset is
 
 📫 To contact me, shoot a mail at ***arsalaann0326@gmail.com*** 
 
-My Exploits 
+
 [![An image of @exo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/exo)](https://holopin.io/@exo)
 
 
