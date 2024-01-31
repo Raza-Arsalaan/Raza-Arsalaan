@@ -1,17 +1,20 @@
 # **Welcome** 
 ![octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 ## 👋 Hello people 
-I'm Arsalaan Raza a __developer__  
+I'm Arsalaan Raza a __developer__ I love writing Smart Contracts and reading/researching about Web3 space.
+I'm very intrigued by it and It has gathered most of my attention which makes me do everything to contribute
+to this amazing tech.  
 I am mostly involved in
+- Smart contract writing/Auditing
 - Full stack web development
-- Ethereum contract writing/Auditing
 - c/c++ development
 - Open source contributions
 
 My skillset is 
 > 1. Java 
 > 2. C/C++ 
-> 3. HTML, CSS, _vanilla_ JS 
+> 3. HTML, CSS, JS
+> 4. Solidity
 > 7. Python 
 
  ✨Let's Connect✨ 
