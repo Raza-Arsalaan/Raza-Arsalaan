@@ -11,11 +11,10 @@ I am mostly involved in
 - Open source contributions
 
 My skillset is 
-> 1. Java 
+> 1. Solidity
 > 2. C/C++ 
+> 3. Python 
 > 3. HTML, CSS, JS
-> 4. Solidity
-> 7. Python 
 
  ✨Let's Connect✨ 
 [Linkedin](https://www.linkedin.com/in/arsalaan-raza-31891b250)
